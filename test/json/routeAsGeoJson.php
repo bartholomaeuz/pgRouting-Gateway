@@ -24,8 +24,9 @@ while ($line = pg_fetch_array($result, null, PGSQL_ASSOC)) {
 		if($first_entry){
 			echo "$col_value";
 			$first_entry=FALSE;
+		}else{
+			echo ",$col_value";
 		}
-        echo ",$col_value";
     }
    
 }
