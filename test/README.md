@@ -9,7 +9,7 @@ Test Location: Kapfenberg (Austria). Look at the json File
 # Run
 
 ./routeAsGeoJson.pl > routeAsGeoJson.pl.json
----
+
 or 
----
+
 copy routeAsGeoJson.php to your php-enabled webserver
