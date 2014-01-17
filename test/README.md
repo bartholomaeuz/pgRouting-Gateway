@@ -1,5 +1,5 @@
 # Test with an existing pgrouting routing database
-Location: Kapfenberg (Austria)
+Test Location: Kapfenberg (Austria). Look at the json File
 # Database
 * host:localhost 
 * user:pgr 
